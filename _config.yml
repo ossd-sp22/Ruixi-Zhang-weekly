@@ -42,7 +42,7 @@ url: "https://github.com/ossd-sp22/Ruixi-Zhang-weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/Ruixi-Zhang-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
