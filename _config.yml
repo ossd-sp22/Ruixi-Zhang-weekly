@@ -23,19 +23,11 @@ avatar_alt_text: Avatar
 # The github flag should be replaced by your own github account name.
 #
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: ossd-sp22
-  instagram:
-  linkedin:
-  pinterest:
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  email: rz1424@nyu.edu
+  github: Ruixi-Zhang
+  instagram: @victoriaruixi.zhang
+  linkedin: https://www.linkedin.com/in/victoria-ruixi-zhang-768732168/
+  youtube: https://www.youtube.com/channel/UC813kfIqEdSMdrUDt5ESthw
 
 # CUSTOMIZE
 # Your website URL (e.g. https://ossd-sp22.github.io/weekly )
