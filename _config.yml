@@ -13,7 +13,7 @@ description: Junior at NYU majoring in Computer Science.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/icon.png 
+avatar: images/404.jpg
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
@@ -23,11 +23,19 @@ avatar_alt_text: Avatar
 # The github flag should be replaced by your own github account name.
 #
 # Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
   email: rz1424@nyu.edu
+  facebook:
+  flickr:
   github: Ruixi-Zhang
-  instagram: @victoriaruixi.zhang
+  instagram: victoriaruixi.zhang
   linkedin: https://www.linkedin.com/in/victoria-ruixi-zhang-768732168/
-  youtube: https://www.youtube.com/channel/UC813kfIqEdSMdrUDt5ESthw
+  pinterest:
+  twitter:
+  stackoverflow: # e.g. "users/50476/bart-kiers"
+  youtube: # channel/<UC813kfIqEdSMdrUDt5ESthw> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
 # Your website URL (e.g. https://ossd-sp22.github.io/weekly )
@@ -78,3 +86,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
