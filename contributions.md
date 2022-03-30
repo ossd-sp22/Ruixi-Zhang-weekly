@@ -23,6 +23,6 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-| March 30   | [link to my contribution]("https://www.openstreetmap.org/changeset/119127771")    | Open Street Map    |   I added a newly built apartment building in Jersey City on Open Street Map    |
+| March 30   | [link to my contribution](https://www.openstreetmap.org/changeset/119127771)    | Open Street Map    |   I added a newly built apartment building in Jersey City on Open Street Map    |
 |     |     |     |      |
 |     |     |     |      |
