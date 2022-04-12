@@ -28,6 +28,8 @@ Replace the first row with your own contribution.
 |  April 5   | [link to my contribution](https://github.com/joannakl/ossd/pull/25)   |  Class Website   | Fixed a broken link for the class website on Week11 Daily |
 |  April 10   | [link to my contribution](https://github.com/pock/pock/pull/570)   |  Bug Fix for Open Source Project "Pock"   | The image links in Pock's every readme translations was broken. None English users won't be able to see each feature properly. I submitted a pull request to update the image links for all of the readme files.|
 |  April 10   | [link to my contribution](https://github.com/ossd-sp22/HaveACookie-weekly/pull/1)   |  Bug Fix classmate's Blog  | The link for Christian's avatar was broken. I submit a pull request to replace the original image link to a permanate absolute link so that the avatar shows up in every webpage.|
+|  April 12   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=French_Kiwi_Juice&diff=prev&oldid=1082353056)   |  Wiki Edit  | Added FKJ's new single "Greener" to his Wiki page |
+
 
 
 
