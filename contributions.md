@@ -30,6 +30,10 @@ Replace the first row with your own contribution.
 |  April 10   | [link to my contribution](https://github.com/ossd-sp22/HaveACookie-weekly/pull/1)   |  Bug Fix classmate's Blog  | The link for Christian's avatar was broken. I submit a pull request to replace the original image link to a permanate absolute link so that the avatar shows up in every webpage.|
 |  April 12   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=French_Kiwi_Juice&diff=prev&oldid=1082353056)   |  Wiki Edit  | Added FKJ's new single "Greener" to his Wiki page. Also created a seperate table call Singles under Discography as it previously only contains EPs and Albums |
 |  April 12   | [link to my contribution](https://www.openstreetmap.org/changeset/119635587)   |  Open Street Map  | Added a Taiwanese Resturant called Taiwanese Gourmet located in Queens |
+|  April 29   | [link to my contribution](https://github.com/ahr9n/cs50w-mail/pull/3)   |  Submit an pull request to fix bug  | Submitted a pull request to fix [issue 1](https://github.com/ahr9n/cs50w-mail/issues/1) for a personal project |
+
+
+
 
 
 
