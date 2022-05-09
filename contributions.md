@@ -33,7 +33,7 @@ Replace the first row with your own contribution.
 |  April 29   | [link to my contribution](https://github.com/ahr9n/cs50w-mail/pull/3)   |  Bug Fix / PR  | Submitted a pull request to fix [issue 1](https://github.com/ahr9n/cs50w-mail/issues/1) for a personal project |
 |  May 4   | [link to my contribution](https://www.openstreetmap.org/changeset/120566116)   |   Open Street Map  | Added a cafe |
 |  May 4   | [link to my contribution](https://github.com/pock/pock/issues/576)   |   Issue Report  | Reported a bug to "Pock" by submitting an issue |
-
+|  May 8   | [link to my contribution](https://www.openstreetmap.org/changeset/120724327)   |   Open Street Map  | Labelled a parking lot |
 
 
 
